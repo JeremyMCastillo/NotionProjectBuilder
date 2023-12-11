@@ -1,0 +1,7 @@
+2023-12-10 Create form controller to receive form input.
+2023-12-10 Define a Notion project template in code.
+2023-12-10 combine the form input with notion project template to create a project id:1
+2023-12-10 create a way to define a template either with declarative api or imperative code p:1
+2023-12-10 use sqlite to store template
+2023-12-10 containerize api to deploy on digital ocean
+2023-12-10 set up digital ocean networking to expose project builder api
